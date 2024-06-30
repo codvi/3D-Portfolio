@@ -221,9 +221,9 @@ const projects: TProject[] = [
     sourceCodeLink: "https://github.com/codvi/nft-marketplace",
   },
   {
-    name: "Tinder Clone",
+    name: "ERC-20 Token",
     description:
-      "Created a Tinder clone application using React.js for the frontend and Firebase for the backend services, including user authentication and real-time database. Implemented features include user profiles, swiping functionality for liking/disliking profiles, and chat messaging between matched users. Utilized Firebase's Firestore for storing and querying user data, ensuring efficient data retrieval and synchronization across devices.",
+      "https://github.com/codvi/ERC20_token.",
     tags: [
       {
         name: "nextjs",
@@ -239,7 +239,7 @@ const projects: TProject[] = [
       },
     ],
     image: tripguide,
-    sourceCodeLink: "https://github.com/codvi/tinder-clone",
+    sourceCodeLink: "https://github.com/codvi/ERC20_token",
   },
 ];
 
