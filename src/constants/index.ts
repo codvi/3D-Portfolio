@@ -2,7 +2,6 @@ import type {
   TNavLink,
   TService,
   TTechnology,
-  TExperience,
   TProject,
 } from "../types";
 
@@ -187,4 +186,4 @@ const projects: TProject[] = [
   },
 ];
 
-export { services, technologies, experiences, projects };
+export { services, technologies, projects };
