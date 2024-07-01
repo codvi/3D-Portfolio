@@ -2,6 +2,7 @@ import type {
   TNavLink,
   TService,
   TTechnology,
+  TExperience,
   TProject,
 } from "../types";
 
