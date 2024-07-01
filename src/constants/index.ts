@@ -205,15 +205,15 @@ const projects: TProject[] = [
       "Developed an NFT (Non-Fungible Token) marketplace using React.js for the frontend and Ethereum blockchain for smart contract development. Designed to facilitate the buying, selling, and trading of digital assets such as art, collectibles, and virtual real estate. Implemented features include wallet integration for cryptocurrency payments, decentralized storage for storing digital assets, and smart contract functionality for managing ownership and transactions securely on the blockchain. Employed IPFS (InterPlanetary File System) for decentralized file storage, ensuring censorship resistance and data immutability.",
     tags: [
       {
-        name: "react",
+        name: "Smart Contract",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "React",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "Solidity",
         color: "pink-text-gradient",
       },
     ],
@@ -223,23 +223,23 @@ const projects: TProject[] = [
   {
     name: "ERC-20 Token",
     description:
-      "https://github.com/codvi/ERC20_token.",
+      "Our ERC-20 Token Platform allows users to mint new tokens, increasing the total supply, and burn tokens to reduce the total supply. The platform provides real-time tracking of the total token supply, ensuring transparent and efficient token management. Built on the ERC-20 standard, our tokens are compatible with a wide range of Ethereum-based applications and wallets, offering flexibility and interoperability in the decentralized ecosystem.",
     tags: [
       {
-        name: "nextjs",
+        name: "TS",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "Solidity",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "ERC-20 Standard Token",
         color: "pink-text-gradient",
       },
     ],
     image: tripguide,
-    sourceCodeLink: "https://github.com/codvi/ERC20_token",
+    sourceCodeLink: "https://github.com/codvi/erc20",
   },
 ];
 
