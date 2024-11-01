@@ -27,6 +27,7 @@ import {
   tripguide,
   threejs,
 } from "../assets";
+import farmos from "../assets/farmos.png";
 
 export const navLinks: TNavLink[] = [
   {
@@ -184,6 +185,27 @@ const projects: TProject[] = [
     image: tripguide,
     sourceCodeLink: "https://github.com/codvi/erc20",
   },
+  {
+    "name": "Farmos - Dairy Management System",
+    "description": "Developed during my internship, Farmos is a Dairy Management System that streamlines stock, production, and sales tracking for farmers. Built with React, MongoDB, and Tailwind CSS, it enhances operational efficiency and provides real-time insights into daily dairy activities.",
+    "tags": [
+        {
+            "name": "React",
+            "color": "blue-text-gradient"
+        },
+        {
+            "name": "MongoDB",
+            "color": "green-text-gradient"
+        },
+        {
+            "name": "Express",
+            "color": "pink-text-gradient"
+        }
+    ],
+    "image": farmos,
+    "sourceCodeLink": "https://github.com/codvi/dairy-project-final"
+}
+
 ];
 
 export { services, technologies, projects };
